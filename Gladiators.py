@@ -3485,7 +3485,7 @@ async def dreplycurse(e):
                     gey = fellows.get(user_id)
                     if gey:
                         gey.pop(0)
-                    text = f"𝗝𝗔 𝗕𝗔𝗖𝗛𝗘 𝗖𝗛𝗢𝗗 𝗗𝗜𝗬𝗔 𝗕𝗔𝗔𝗣 𝗡𝗘 𝗧𝗛𝗨𝗝𝗘"
+                    text = f"𝗝𝗔 𝗕𝗔𝗖𝗛𝗘👶 𝗖𝗛𝗢𝗗 𝗗𝗜𝗬𝗔 𝗕𝗔𝗔𝗣🧔 𝗡𝗘 𝗧𝗛𝗨𝗝𝗘 😉"
                     await e.reply(text, parse_mode=None, link_preview=None )
                 except Exception as ec:
                     await e.reply(str(ec))
@@ -3502,7 +3502,7 @@ async def dreplycurse(e):
                 gey = fellows.get(user_id)
                 if gey:
                     gey.pop(0)
-                text = f"𝗝𝗔 𝗕𝗔𝗖𝗛𝗘 𝗖𝗛𝗢𝗗 𝗗𝗜𝗬𝗔 𝗕𝗔𝗔𝗣 𝗡𝗘 𝗧𝗛𝗨𝗝𝗘"
+                text = f"𝗝𝗔 𝗕𝗔𝗖𝗛𝗘👶 𝗖𝗛𝗢𝗗 𝗗𝗜𝗬𝗔 𝗕𝗔𝗔𝗣 𝗡𝗘 𝗧𝗛𝗨𝗝𝗘 😉"
                 await e.reply(text, parse_mode=None, link_preview=None )
         else:
             await e.reply(usage)
