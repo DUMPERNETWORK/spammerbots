@@ -3368,7 +3368,7 @@ async def replycurse(e):
                 phucker = [user_id]
                 gey.append(phucker)
                 name = a.first_name
-                text =f"AB THERI GAND ME SE KHOON NIKLEGA BETE{name}"
+                text = f"𝗔𝗕 𝗧𝗛𝗘𝗥𝗜 𝗚𝗔𝗡𝗗 𝗠𝗘 𝗦𝗘 𝗞𝗛𝗢𝗢𝗡 𝗡𝗜𝗞𝗟𝗘𝗚𝗔🤣🤙"
                 await e.reply(text, parse_mode=None, link_preview=None )
         elif e.reply_to_msg_id:             
             a = await e.get_reply_message()
@@ -3379,7 +3379,7 @@ async def replycurse(e):
                 text = f"I can't betray @TeamGladiators's crew."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) in SUDO_USERS:
-                text = f"SORRY BHAI YE MERA BHAI SE NHI KARUNGA."
+                text = f"𝐕𝐎 𝐌𝐄𝐑𝐀 𝐁𝐇𝐀𝐈 𝐇𝐄 𝐍𝐇𝐈 𝐊𝐀𝐑𝐔𝐍𝐆𝐀."
                 await e.reply(text, parse_mode=None, link_preview=None )
             else:
                 name = umser.first_name
@@ -3387,7 +3387,7 @@ async def replycurse(e):
                 gey = fellows.get(user_id)
                 phucker = [user_id]
                 gey.append(phucker)
-                text =f"AB THERI GAND ME SE KHOON NIKLEGA{name}"
+                text =f"𝗔𝗕 𝗧𝗛𝗘𝗥𝗜 𝗚𝗔𝗡𝗗 𝗠𝗘 𝗦𝗘 𝗞𝗛𝗢𝗢𝗡 𝗡𝗜𝗞𝗟𝗘𝗚𝗔"
                 await e.reply(text, parse_mode=None, link_preview=None )
         else:
             await e.reply(usage)
@@ -3485,7 +3485,7 @@ async def dreplycurse(e):
                     gey = fellows.get(user_id)
                     if gey:
                         gey.pop(0)
-                    text = f"JA BACHE CHOD DIYA BAAP NE {name}"
+                    text = f"𝗝𝗔 𝗕𝗔𝗖𝗛𝗘 𝗖𝗛𝗢𝗗 𝗗𝗜𝗬𝗔 𝗕𝗔𝗔𝗣 𝗡𝗘 𝗧𝗛𝗨𝗝𝗘"
                     await e.reply(text, parse_mode=None, link_preview=None )
                 except Exception as ec:
                     await e.reply(str(ec))
@@ -3502,7 +3502,7 @@ async def dreplycurse(e):
                 gey = fellows.get(user_id)
                 if gey:
                     gey.pop(0)
-                text = f"JA BACHE CHOD DIYA BAAP NE {name}"
+                text = f"𝗝𝗔 𝗕𝗔𝗖𝗛𝗘 𝗖𝗛𝗢𝗗 𝗗𝗜𝗬𝗔 𝗕𝗔𝗔𝗣 𝗡𝗘 𝗧𝗛𝗨𝗝𝗘"
                 await e.reply(text, parse_mode=None, link_preview=None )
         else:
             await e.reply(usage)
@@ -3591,14 +3591,14 @@ async def dreplycurse(e):
 async def gtping(e):
     if e.sender_id in SUDO_USERS or e.sender_id in DEV_USERS:
         if e.reply_to_msg_id:
-            v = await e.respond("KISKA GAND MARNAHE BHAI", reply_to=e.reply_to_msg_id)
+            v = await e.respond("𝗞𝗜𝗦𝗞𝗜 𝗚𝗔𝗡𝗗💢 𝗠𝗔𝗥𝗡𝗔🤙 𝗛𝗘 𝗕𝗛𝗔𝗜", reply_to=e.reply_to_msg_id)
         else:
-            v = await e.reply("Pᴏɴɢ!")
+            v = await e.reply("𝗨𝗡𝗦𝗧𝗢𝗣𝗣𝗔𝗕𝗟𝗘_𝗧𝗘𝗔𝗠😈!")
         ping_start = datetime.now()
         ping_end = datetime.now()
         ms = (ping_end-ping_start).microseconds / 1000
         uptime = TeamArsenic_time((time.time() - StartTime) * 1000)
-        ping_msg = f"KISKA GAND MARNAHE BHAI\n⏱ MERI sᴘᴇᴇᴅ : {ms}ᴍs\n⏳ Uᴘᴛɪᴍᴇ - {uptime}"
+        ping_msg = f"𝗞𝗜𝗦𝗞𝗜 𝗚𝗔𝗡𝗗💢 𝗠𝗔𝗥𝗡𝗔🤙 𝗛𝗘 𝗕𝗛𝗔𝗜\n⏱ ᴍᴇʀɪ sᴘᴇᴇᴅ : {ms}ᴍs\n⏳ Uᴘᴛɪᴍᴇ - {uptime}"
         await v.edit(ping_msg)
 
 @Bot1.on(events.NewMessage(incoming=True, pattern=r"\%salive(?: |$)(.*)" % hn))
