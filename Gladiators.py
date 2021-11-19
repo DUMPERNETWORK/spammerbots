@@ -4216,12 +4216,12 @@ async def bio(e):
         message = chckpnt[1]
         if len(e.text) > 5:
             bio = message
-            text = "Changing Bio..."
+            text = "KARAHU BHAI BIO CHANGE..."
             try:
                 await e.client(functions.account.UpdateProfileRequest(about=bio))
                 event = await e.reply(text, parse_mode=None, link_preview=None )
                 await asyncio.sleep(0.7)
-                await event.edit("Changed bio successfully!")
+                await event.edit("KARDIYA BHAI BIO CHANGE!")
             except Exception as e:
                 await print(str(e))   
         else:
