@@ -3591,14 +3591,14 @@ async def dreplycurse(e):
 async def gtping(e):
     if e.sender_id in SUDO_USERS or e.sender_id in DEV_USERS:
         if e.reply_to_msg_id:
-            v = await e.respond("Pᴏɴɢ!", reply_to=e.reply_to_msg_id)
+            v = await e.respond("KISKA GAND MARNAHE BHAI", reply_to=e.reply_to_msg_id)
         else:
             v = await e.reply("Pᴏɴɢ!")
         ping_start = datetime.now()
         ping_end = datetime.now()
         ms = (ping_end-ping_start).microseconds / 1000
         uptime = TeamArsenic_time((time.time() - StartTime) * 1000)
-        ping_msg = f"•• Pᴏɴɢ . ••\n⏱ Pɪɴɢ sᴘᴇᴇᴅ : {ms}ᴍs\n⏳ Uᴘᴛɪᴍᴇ - {uptime}"
+        ping_msg = f"KISKA GAND MARNAHE BHAI\n⏱ Pɪɴɢ sᴘᴇᴇᴅ : {ms}ᴍs\n⏳ Uᴘᴛɪᴍᴇ - {uptime}"
         await v.edit(ping_msg)
 
 @Bot1.on(events.NewMessage(incoming=True, pattern=r"\%salive(?: |$)(.*)" % hn))
