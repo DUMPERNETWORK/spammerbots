@@ -2013,7 +2013,7 @@ loop.run_until_complete(gladiators_bots())
 # TeamArsenic_time
 # ifgif
 
-# @TeamGladiators
+# UNSTOPPABLE_TEAM
 ##########################################################################################################################
 
 
@@ -2064,7 +2064,7 @@ async def ifgif(e, gif):
 # + Help Menu
 
 
-# @TeamGladiators
+# UNSTOPPABLE_TEAM
 ##########################################################################################################################
 
 fellows = {}
@@ -2168,7 +2168,7 @@ async def bot_help(e):
 # packspam
 # dspamhang
 
-# @TeamGladiators
+# UNSTOPPABLE_TEAM
 ##########################################################################################################################
 
 
@@ -2683,7 +2683,7 @@ async def spam(e):
 # ucurse
 # replycurse
 # dreplycurse
-# @TeamGladiators
+# UNSTOPPABLE_TEAM
 ##########################################################################################################################
 
 @Bot1.on(events.NewMessage(incoming=True))
@@ -3368,7 +3368,7 @@ async def replycurse(e):
                 phucker = [user_id]
                 gey.append(phucker)
                 name = a.first_name
-                text = f"Activated reply and curse on {name}"
+                text =f"AB THERI GAND ME SE KHOON NIKLEGA BETE{name}"
                 await e.reply(text, parse_mode=None, link_preview=None )
         elif e.reply_to_msg_id:             
             a = await e.get_reply_message()
@@ -3379,7 +3379,7 @@ async def replycurse(e):
                 text = f"I can't betray @TeamGladiators's crew."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) in SUDO_USERS:
-                text = f"This guy is a sudo user."
+                text = f"SORRY BHAI YE MERA BHAI SE NHI KARUNGA."
                 await e.reply(text, parse_mode=None, link_preview=None )
             else:
                 name = umser.first_name
@@ -3387,7 +3387,7 @@ async def replycurse(e):
                 gey = fellows.get(user_id)
                 phucker = [user_id]
                 gey.append(phucker)
-                text = f"Activated Reply Curse on {name}"
+                text =f"AB THERI GAND ME SE KHOON NIKLEGA{name}"
                 await e.reply(text, parse_mode=None, link_preview=None )
         else:
             await e.reply(usage)
@@ -3485,7 +3485,7 @@ async def dreplycurse(e):
                     gey = fellows.get(user_id)
                     if gey:
                         gey.pop(0)
-                    text = f"De-activated reply and curse on {name}"
+                    text = f"JA BACHE CHOD DIYA BAAP NE {name}"
                     await e.reply(text, parse_mode=None, link_preview=None )
                 except Exception as ec:
                     await e.reply(str(ec))
@@ -3502,7 +3502,7 @@ async def dreplycurse(e):
                 gey = fellows.get(user_id)
                 if gey:
                     gey.pop(0)
-                text = f"De-activated reply and curse on {name}"
+                text = f"JA BACHE CHOD DIYA BAAP NE {name}"
                 await e.reply(text, parse_mode=None, link_preview=None )
         else:
             await e.reply(usage)
@@ -3513,7 +3513,7 @@ async def dreplycurse(e):
 # ping
 # alive
 
-# @TeamGladiators
+# UNSTOPPABLE_TEAM
 ##########################################################################################################################
 
 
@@ -3598,7 +3598,7 @@ async def gtping(e):
         ping_end = datetime.now()
         ms = (ping_end-ping_start).microseconds / 1000
         uptime = TeamArsenic_time((time.time() - StartTime) * 1000)
-        ping_msg = f"KISKA GAND MARNAHE BHAI\n⏱ Pɪɴɢ sᴘᴇᴇᴅ : {ms}ᴍs\n⏳ Uᴘᴛɪᴍᴇ - {uptime}"
+        ping_msg = f"KISKA GAND MARNAHE BHAI\n⏱ MERI sᴘᴇᴇᴅ : {ms}ᴍs\n⏳ Uᴘᴛɪᴍᴇ - {uptime}"
         await v.edit(ping_msg)
 
 @Bot1.on(events.NewMessage(incoming=True, pattern=r"\%salive(?: |$)(.*)" % hn))
@@ -3691,7 +3691,7 @@ async def alive(e):
 # usage
 
 
-# @TeamGladiators
+# UNSTOPPABLE_TEAM
 ##########################################################################################################################
 
 
@@ -4042,7 +4042,7 @@ async def dyno_usage(dyno):
 
 
 
-# @TeamGladiators
+# UNSTOPPABLE_TEAM
 ##########################################################################################################################
 
 
@@ -4136,7 +4136,7 @@ async def alive(e):
 #BIO
 
 
-# @TeamGladiators
+# UNSTOPPABLE_TEAM
 ##########################################################################################################################
 
 @Bot1.on(events.NewMessage(incoming=True, pattern=r"\%sbio(?: |$)(.*)" % hn))
@@ -4974,7 +4974,7 @@ print(gladtext)
 print("")
 print("")
 print("Rooted successfully...")
-print("Starting Gladiators Spammerbots...")
+print("Starting UNSTOPPABLE-TEAM Spammerbots...")
 print("Started....")
 if len(sys.argv) not in (1, 3, 4):
     try:
