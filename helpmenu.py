@@ -40,7 +40,7 @@ i) {hn}packspam (replying to any sticker)
 Syntax:
 i) {hn}hang <counter> (you can reply any message if you want bot to reply that message and do spamming)
 
-**©️ @TeamGladiators**
+**©️🇺ŇŞŦØPPΔβŁ€🇹€ΔΜ 👿**
 """
 curse_menu = f"""
 **ıllıllı★ 𝙷𝚎𝚕𝚙 𝙼𝚎𝚗𝚞 ★ıllıllı**
@@ -75,7 +75,7 @@ i) {hn}dreplycurse <replying to anyone>
 ii) {hn}dreplycurse <username>
 
 
-**©️ @TeamGladiators**
+**©️🇺ŇŞŦØPPΔβŁ€🇹€ΔΜ 👿**
 """
 sudo_menu = f"""
 **ıllıllı★ 𝙷𝚎𝚕𝚙 𝙼𝚎𝚗𝚞 ★ıllıllı**
@@ -86,7 +86,7 @@ sudo_menu = f"""
 **{hn}alive**: Check if bot is alive.
 
 
-**©️ @TeamGladiators**
+**©️🇺ŇŞŦØPPΔβŁ€🇹€ΔΜ 👿**
 """
 
 dev_menu = f"""
@@ -103,7 +103,7 @@ ii) {hn}leave
 
 **{hn}restart**: Restarts the bot!(Too fast! **Supersonic**)
 
-**©️ @TeamGladiators**
+**©️🇺ŇŞŦØPPΔβŁ€🇹€ΔΜ 👿**
 """
 
 
@@ -134,7 +134,7 @@ i) {hn}join <Private chat's hash>
 Note: If all you have is a link like this one: https://t.me/joinchat/AAAAAFFszQPyPEZ7wgxLtd, The part after the https://t.me/joinchat/, this is, AAAAAFFszQPyPEZ7wgxLtd on this example, is the hash of the chat or channel.
 
 
-**©️ @TeamGladiators**
+**©️🇺ŇŞŦØPPΔβŁ€🇹€ΔΜ 👿**
 """
 
 
@@ -158,7 +158,7 @@ help_menu = f"""
 **Example**: ```{hn}help spamcmds```
 
 
-**©️ @TeamGladiators**
+**©️🇺ŇŞŦØPPΔβŁ€🇹€ΔΜ 👿**
 """
 
 alive_temxt = f"""
@@ -169,15 +169,15 @@ alive_temxt = f"""
 ║
 ╠═Bᴏᴛ Vᴇʀsɪᴏɴ ➪ 0.0.1
 ║
-╠═Cʜᴀɴɴᴇʟ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/Gladiators_Projects)
+╠═OᴜʀsTᴇᴀᴍ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/UNSTOPPABLE_FIGHTERS)
 ║
-╠═Sᴜᴘᴘᴏʀᴛ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/Gladiators_Support)
+╠═ɴᴇᴛᴡᴏʀᴋ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/LOVELY_NETWORK)
 ║
-╠═Rᴇᴘᴏsɪᴛᴏʀʏ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://github.com/Gladiators-Projects/Spam-Bots)
+╠═Rᴇᴘᴏsɪᴛᴏʀʏ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/UNSTOPPABLETEAM_BOT)
 ║
 ╚═════════════════╝
 
-**[©️]({ALIVE_MEDIA}) @TeamGladiators**
+**[©️]({ALIVE_MEDIA}) 🇺ŇŞŦØPPΔβŁ€🇹€ΔΜ 👿**
 """
 
 glad_logo = "https://telegra.ph/file/ec3c057fcba5594151601.jpg"
@@ -211,13 +211,12 @@ I ᴄᴀɴ sᴘᴀᴍ ᴄᴏɴᴛɪɴᴜᴏsʟʏ ᴡɪᴛʜ ʟᴇss ғʟᴏᴏ�
 ║
 ╠═Bᴏᴛ Vᴇʀsɪᴏɴ ➪ 0.0.1
 ║
-╠═Cʜᴀɴɴᴇʟ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/Gladiators_Projects)
+╠═OᴜʀsTᴇᴀᴍ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/UNSTOPPABLE_FIGHTERS)
 ║
-╠═Sᴜᴘᴘᴏʀᴛ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/Gladiators_Support)
+╠═ɴᴇᴛᴡᴏʀᴋ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/LOVELY_NETWORK)
 ║
-╠═Rᴇᴘᴏsɪᴛᴏʀʏ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://github.com/Gladiators-Projects/SPAM-BOTS)
-║
+╠═Rᴇᴘᴏsɪᴛᴏʀʏ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/UNSTOPPABLETEAM_BOT)
 ╚═════════════════╝
 
-**[©️](https://telegra.ph/file/ec3c057fcba5594151601.jpg) @TeamGladiators**
+**[©️](https://telegra.ph/file/ec3c057fcba5594151601.jpg) @UNSTOPPABLE_FIGHTERS**
 """
