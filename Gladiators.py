@@ -24,7 +24,7 @@ from dossier import HNDLR as hn
 from worker.verses import replies, curses
 from helpmenu import spam_menu, curse_menu, sudo_menu, dev_menu, acc_menu, help_menu, alive_temxt, glad_logo, start_caption, start_caption1, devusage, sudousage, spamusage, accusage
 
-glad_logo = "https://telegra.ph/file/ec3c057fcba5594151601.jpg"
+glad_logo = "https://telegra.ph/file/d960a29c64169a00d94ec.jpg"
 
 buttons = [
     [
