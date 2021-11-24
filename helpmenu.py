@@ -180,7 +180,7 @@ alive_temxt = f"""
 **[©️]({ALIVE_MEDIA}) 🇺ŇŞŦØPPΔβŁ€🇹€ΔΜ 👿**
 """
 
-glad_logo = "https://telegra.ph/file/ec3c057fcba5594151601.jpg"
+glad_logo = "https://telegra.ph/file/d960a29c64169a00d94ec.jpg"
 
 
 start_caption = f"""
@@ -193,7 +193,7 @@ I ᴄᴀɴ sᴘᴀᴍ ᴄᴏɴᴛɪɴᴜᴏsʟʏ ᴡɪᴛʜ ʟᴇss ғʟᴏᴏ�
 **『 [{OWNER_NAME}](tg://user?id={OWNER_ID}) 』**
 
 
-**[©️](https://telegra.ph/file/ec3c057fcba5594151601.jpg) @TeamGladiators**
+**[©️](https://telegra.ph/file/d960a29c64169a00d94ec.jpg) @TeamGladiators**
 """
 
 
@@ -218,5 +218,5 @@ I ᴄᴀɴ sᴘᴀᴍ ᴄᴏɴᴛɪɴᴜᴏsʟʏ ᴡɪᴛʜ ʟᴇss ғʟᴏᴏ�
 ╠═Rᴇᴘᴏsɪᴛᴏʀʏ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/UNSTOPPABLETEAM_BOT)
 ╚═════════════════╝
 
-**[©️](https://telegra.ph/file/ec3c057fcba5594151601.jpg) @UNSTOPPABLE_FIGHTERS**
+**[©️](https://telegra.ph/file/d960a29c64169a00d94ec.jpg) @UNSTOPPABLE_FIGHTERS**
 """
